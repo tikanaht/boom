@@ -1,13 +1,12 @@
 {
-  "name": "boom",
+  "name": "boomdnax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "เม็ดฟู่ชลอวัย Boom D-Nax",
   "keywords": [
-    "syntax",
-    "theme"
+    "boomdnax"
   ],
-  "repository": "https://github.com/atom/boom",
+  "repository": "https://github.com/tikanaht/boom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
